@@ -24,7 +24,6 @@ I'm an undergraduate student in software development. I'm proficient in Python, 
 Languages and Tools <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,dart,flutter,nodejs,postgres,mysql,godot,vscode,git,docker,postman)](https://skillicons.dev)
-<hr width="36%" align="center">
 
 ## My Github Stats
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
@@ -35,6 +34,16 @@ Languages and Tools <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TornadoXZ&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
+# Connect with me
+<a href="https://www.instagram.com/daniel_gutierrezm?igsh=d3A5eTdneGJ1MXA4&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="danielsantiagogutierrezm@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil">
+</a>
+<a href="https://www.linkedin.com/in/daniel-guti%C3%A9rrez-ba592132b/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
