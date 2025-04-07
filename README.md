@@ -16,6 +16,9 @@
 
 I'm an undergraduate student in software development. I'm proficient in Python, JavaScript, and various frameworks. I love learning and creating something new, productive, innovative, and creative. I'm interested in back-end development, mobile app development, and databases.
 
-- Learning Java 
-- Java
-- cybersecurity
+- ☕ Learning Java 
+- ❄️ Learning Flutter
+- 🔒 Learning cybersecurity
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
