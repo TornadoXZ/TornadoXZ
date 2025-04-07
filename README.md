@@ -12,4 +12,4 @@
 <!--About Me-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm04ZjlkMnQ0b3Z6b2g2Znd2eDQ0Y3NtdGF6OGdtYmRpbThuajYyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtsbzN6emt0dnczNHVlcm85cDM5Y3d2eGN4Nm9oNW1rbXh1YXpnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
