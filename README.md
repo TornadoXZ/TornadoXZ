@@ -23,7 +23,7 @@ I'm an undergraduate student in software development. I'm proficient in Python, 
 ## 🛠️ My Skills
 Languages and Tools <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,cpp,py,dart,flutter,nodejs,postgres,mysql,godot,vscode,git,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,dart,flutter,nodejs,postgres,mysql,godot,vscode,git,docker,postman)](https://skillicons.dev)
 <hr width="36%" aling="center">
 
 
