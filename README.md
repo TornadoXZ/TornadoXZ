@@ -35,15 +35,14 @@ Languages and Tools <br>
 <br><br><br><br><br><br><br><br><br><br>
 
 # Connect with me
-<a href="https://www.instagram.com/daniel_gutierrezm?igsh=d3A5eTdneGJ1MXA4&utm_source=qr">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.gmail.com/danielsantiagogutierrezm@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil">
-</a>
-<a href="https://www.linkedin.com/in/daniel-guti%C3%A9rrez-ba592132b/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
+  <a href="https://www.instagram.com/daniel_gutierrezm?igsh=d3A5eTdneGJ1MXA4&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-guti%C3%A9rrez-ba592132b/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
