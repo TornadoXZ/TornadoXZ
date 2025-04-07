@@ -24,8 +24,18 @@ I'm an undergraduate student in software development. I'm proficient in Python, 
 Languages and Tools <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,dart,flutter,nodejs,postgres,mysql,godot,vscode,git,docker,postman)](https://skillicons.dev)
-<hr width="36%" aling="center">
+<hr width="36%" align="center">
 
+## My Github Stats
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
