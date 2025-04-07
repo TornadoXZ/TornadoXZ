@@ -21,7 +21,7 @@ I'm an undergraduate student in software development. I'm proficient in Python, 
 - 🔒 Learning cybersecurity
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python)](https://skillicons.dev)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
