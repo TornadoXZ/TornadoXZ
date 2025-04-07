@@ -25,7 +25,7 @@ Languages and Tools <br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,dart,flutter,nodejs,postgres,mysql,godot,vscode,git,docker,postman)](https://skillicons.dev)
 
-## My Github Stats
+## 🎒 My Github Stats
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TornadoXZ&show_icons=true&theme=dark&locale=en&layout=compact" alt="TornadoXZ" /></p>
@@ -34,7 +34,7 @@ Languages and Tools <br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TornadoXZ&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-# Connect with me
+# 📧 Connect with me
 <div align="center">
   <a href="https://www.instagram.com/daniel_gutierrezm?igsh=d3A5eTdneGJ1MXA4&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
