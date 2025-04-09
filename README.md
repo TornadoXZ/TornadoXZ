@@ -23,7 +23,7 @@ I'm an undergraduate student in software development. I'm proficient in Python, 
 ## 🛠️ My Skills
 Languages and Tools <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,dart,flutter,nodejs,postgres,mysql,godot,vscode,git,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,py,dart,flutter,nodejs,postgres,mysql,godot,vscode,git,docker,postman,java)](https://skillicons.dev)
 
 ## 🎒 My Github Stats
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
